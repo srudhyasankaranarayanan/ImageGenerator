@@ -68,5 +68,5 @@ stabilityai/stable-diffusion-2-1-base
 # 👨‍💻 Author
 Srudhya S
 
-# GitHub: https://github.com/srudhyasankaranarayanan
-# Project: AI Image Generator
+## GitHub: https://github.com/srudhyasankaranarayanan
+## Project: AI Image Generator
